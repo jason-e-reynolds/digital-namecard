@@ -147,14 +147,14 @@ img.profile-pic {
 .text-title-position {
     font-family: 'Roboto', sans-serif;
     font-style: italic;
-    font-weight: 200;
+    font-weight: 400;
     color: #003366;
     font-size: 18px;
 }
 
 .text-title-company {
     font-family: 'Roboto', sans-serif;
-    font-weight: 200;
+    font-weight: 300;
     color: #003366;
     font-size: 14px;
 }
